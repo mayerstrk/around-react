@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/around-react/static/css/main.244c22a6.css",
+    "main.css": "/around-react/static/css/main.a025bdd1.css",
     "main.js": "/around-react/static/js/main.badd4fc9.js",
     "static/js/787.1c78f32b.chunk.js": "/around-react/static/js/787.1c78f32b.chunk.js",
     "static/media/Inter-Medium.woff": "/around-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
@@ -10,20 +10,20 @@
     "static/media/Inter-Black.woff2": "/around-react/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
     "static/media/Inter-Regular.woff2": "/around-react/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "static/media/logo.svg": "/around-react/static/media/logo.66cff89119b58975ea644f9d7f47a8c5.svg",
-    "static/media/__like-button.svg": "/around-react/static/media/__like-button.99043841e8bec6b9df21.svg",
+    "static/media/like-button.svg": "/around-react/static/media/like-button.99043841e8bec6b9df21.svg",
     "index.html": "/around-react/index.html",
-    "static/media/__delete-button.svg": "/around-react/static/media/__delete-button.ba43124316072f7a8629.svg",
-    "static/media/__like-button_active.svg": "/around-react/static/media/__like-button_active.f8482d28867cec189b08.svg",
+    "static/media/delete-button.svg": "/around-react/static/media/delete-button.ba43124316072f7a8629.svg",
+    "static/media/like-button_active.svg": "/around-react/static/media/like-button_active.f8482d28867cec189b08.svg",
     "static/media/__edit-button.svg": "/around-react/static/media/__edit-button.a1892ea72cb87c8fc3aa.svg",
     "static/media/__edit-icon.svg": "/around-react/static/media/__edit-icon.a086f758840ae814ecde.svg",
     "static/media/__add-button.svg": "/around-react/static/media/__add-button.d5d6f8af0577b9c95ee43048c9756c7b.svg",
-    "static/media/__close-button.svg": "/around-react/static/media/__close-button.d5d6f8af0577b9c95ee4.svg",
-    "main.244c22a6.css.map": "/around-react/static/css/main.244c22a6.css.map",
+    "static/media/close-button.svg": "/around-react/static/media/close-button.d5d6f8af0577b9c95ee4.svg",
+    "main.a025bdd1.css.map": "/around-react/static/css/main.a025bdd1.css.map",
     "main.badd4fc9.js.map": "/around-react/static/js/main.badd4fc9.js.map",
     "787.1c78f32b.chunk.js.map": "/around-react/static/js/787.1c78f32b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.244c22a6.css",
+    "static/css/main.a025bdd1.css",
     "static/js/main.badd4fc9.js"
   ]
 }
