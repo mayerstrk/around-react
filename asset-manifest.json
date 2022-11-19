@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/around-react/static/css/main.c930b60e.css",
-    "main.js": "/around-react/static/js/main.924153ab.js",
+    "main.css": "/around-react/static/css/main.da41940b.css",
+    "main.js": "/around-react/static/js/main.f8089eb9.js",
     "static/js/787.1c78f32b.chunk.js": "/around-react/static/js/787.1c78f32b.chunk.js",
     "static/media/Inter-Medium.woff": "/around-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff": "/around-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -14,16 +14,16 @@
     "index.html": "/around-react/index.html",
     "static/media/delete-button.svg": "/around-react/static/media/delete-button.ba43124316072f7a8629.svg",
     "static/media/like-button_active.svg": "/around-react/static/media/like-button_active.f8482d28867cec189b08.svg",
-    "static/media/__edit-button.svg": "/around-react/static/media/__edit-button.a1892ea72cb87c8fc3aa.svg",
-    "static/media/__edit-icon.svg": "/around-react/static/media/__edit-icon.a086f758840ae814ecde.svg",
-    "static/media/__add-button.svg": "/around-react/static/media/__add-button.d5d6f8af0577b9c95ee43048c9756c7b.svg",
+    "static/media/edit-button.svg": "/around-react/static/media/edit-button.a1892ea72cb87c8fc3aa.svg",
+    "static/media/edit-icon.svg": "/around-react/static/media/edit-icon.a086f758840ae814ecde.svg",
+    "static/media/add-button.svg": "/around-react/static/media/add-button.d5d6f8af0577b9c95ee43048c9756c7b.svg",
     "static/media/close-button.svg": "/around-react/static/media/close-button.d5d6f8af0577b9c95ee4.svg",
-    "main.c930b60e.css.map": "/around-react/static/css/main.c930b60e.css.map",
-    "main.924153ab.js.map": "/around-react/static/js/main.924153ab.js.map",
+    "main.da41940b.css.map": "/around-react/static/css/main.da41940b.css.map",
+    "main.f8089eb9.js.map": "/around-react/static/js/main.f8089eb9.js.map",
     "787.1c78f32b.chunk.js.map": "/around-react/static/js/787.1c78f32b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c930b60e.css",
-    "static/js/main.924153ab.js"
+    "static/css/main.da41940b.css",
+    "static/js/main.f8089eb9.js"
   ]
 }
