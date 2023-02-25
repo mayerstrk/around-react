@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/around-react/static/css/main.80f045d9.css",
-    "main.js": "/around-react/static/js/main.59072eaa.js",
+    "main.css": "/around-react/static/css/main.c1c401ae.css",
+    "main.js": "/around-react/static/js/main.1f0e876f.js",
     "static/media/Inter-Medium.woff": "/around-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff": "/around-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
     "static/media/Inter-Regular.woff": "/around-react/static/media/Inter-Regular.8c206db99195777c6769.woff",
     "static/media/Inter-Medium.woff2": "/around-react/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
     "static/media/Inter-Black.woff2": "/around-react/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
     "static/media/Inter-Regular.woff2": "/around-react/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/logo.svg": "/around-react/static/media/logo.66cff89119b58975ea644f9d7f47a8c5.svg",
-    "static/media/like-button.svg": "/around-react/static/media/like-button.99043841e8bec6b9df21.svg",
+    "static/media/logo.svg": "/around-react/static/media/logo.e277794bccf5de6feb290052f74e2ff1.svg",
+    "static/media/like-button.svg": "/around-react/static/media/like-button.5f66a81a63859110ceb5.svg",
     "index.html": "/around-react/index.html",
-    "static/media/delete-button.svg": "/around-react/static/media/delete-button.ba43124316072f7a8629.svg",
-    "static/media/like-button_active.svg": "/around-react/static/media/like-button_active.f8482d28867cec189b08.svg",
-    "static/media/edit-button.svg": "/around-react/static/media/edit-button.a1892ea72cb87c8fc3aa.svg",
-    "static/media/edit-icon.svg": "/around-react/static/media/edit-icon.a086f758840ae814ecde.svg",
-    "static/media/add-button.svg": "/around-react/static/media/add-button.d5d6f8af0577b9c95ee43048c9756c7b.svg",
-    "static/media/close-button.svg": "/around-react/static/media/close-button.d5d6f8af0577b9c95ee4.svg",
-    "main.80f045d9.css.map": "/around-react/static/css/main.80f045d9.css.map",
-    "main.59072eaa.js.map": "/around-react/static/js/main.59072eaa.js.map"
+    "static/media/delete-button.svg": "/around-react/static/media/delete-button.2a0675cce757985f0817.svg",
+    "static/media/like-button_active.svg": "/around-react/static/media/like-button_active.8f6110b4704f9f252759.svg",
+    "static/media/edit-button.svg": "/around-react/static/media/edit-button.a7f759dfc92934cca90a.svg",
+    "static/media/edit-icon.svg": "/around-react/static/media/edit-icon.eb1254a230758e3fecb4.svg",
+    "static/media/add-button.svg": "/around-react/static/media/add-button.9f168d3b4f922b2f69ab414df2f5c80b.svg",
+    "static/media/close-button.svg": "/around-react/static/media/close-button.9f168d3b4f922b2f69ab.svg",
+    "main.c1c401ae.css.map": "/around-react/static/css/main.c1c401ae.css.map",
+    "main.1f0e876f.js.map": "/around-react/static/js/main.1f0e876f.js.map"
   },
   "entrypoints": [
-    "static/css/main.80f045d9.css",
-    "static/js/main.59072eaa.js"
+    "static/css/main.c1c401ae.css",
+    "static/js/main.1f0e876f.js"
   ]
 }
