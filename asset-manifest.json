@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/around-react/static/css/main.c1c401ae.css",
-    "main.js": "/around-react/static/js/main.1f0e876f.js",
+    "main.css": "/around-react/static/css/main.8562d5c1.css",
+    "main.js": "/around-react/static/js/main.115b448e.js",
     "static/media/Inter-Medium.woff": "/around-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff": "/around-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
     "static/media/Inter-Regular.woff": "/around-react/static/media/Inter-Regular.8c206db99195777c6769.woff",
@@ -13,15 +13,15 @@
     "index.html": "/around-react/index.html",
     "static/media/delete-button.svg": "/around-react/static/media/delete-button.2a0675cce757985f0817.svg",
     "static/media/like-button_active.svg": "/around-react/static/media/like-button_active.8f6110b4704f9f252759.svg",
-    "static/media/edit-button.svg": "/around-react/static/media/edit-button.a7f759dfc92934cca90a.svg",
-    "static/media/edit-icon.svg": "/around-react/static/media/edit-icon.eb1254a230758e3fecb4.svg",
+    "static/media/edit-button.svg": "/around-react/static/media/edit-button.eba029236f39868dd5df.svg",
+    "static/media/edit-icon.svg": "/around-react/static/media/edit-icon.73083b40a53d3792e51d.svg",
     "static/media/add-button.svg": "/around-react/static/media/add-button.9f168d3b4f922b2f69ab414df2f5c80b.svg",
     "static/media/close-button.svg": "/around-react/static/media/close-button.9f168d3b4f922b2f69ab.svg",
-    "main.c1c401ae.css.map": "/around-react/static/css/main.c1c401ae.css.map",
-    "main.1f0e876f.js.map": "/around-react/static/js/main.1f0e876f.js.map"
+    "main.8562d5c1.css.map": "/around-react/static/css/main.8562d5c1.css.map",
+    "main.115b448e.js.map": "/around-react/static/js/main.115b448e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1c401ae.css",
-    "static/js/main.1f0e876f.js"
+    "static/css/main.8562d5c1.css",
+    "static/js/main.115b448e.js"
   ]
 }
